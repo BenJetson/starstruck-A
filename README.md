@@ -8,4 +8,4 @@ This repo houses the code for our 2016-17 VRC Starstruck robot.
 
 # The Game
 
-To learn more about the VRC Starstruck game, [watch the 2 minute overview video]ihttps://www.youtube.com/watch?v=0t2zstQ84Tw).
+To learn more about the VRC Starstruck game, [watch the 2 minute overview video](https://www.youtube.com/watch?v=0t2zstQ84Tw).
